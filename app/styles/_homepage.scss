@@ -1,0 +1,19 @@
+.cart-link {
+  position: fixed;
+  right: 10px;
+  top: 10px;
+  background-color: #fff;
+  color: grey;
+  width: 65px;
+  height: 65px;
+  font-size: 32px;
+  border-radius: 50%;
+
+  display: inline;
+  justify-content: center;
+  align-items: center;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
